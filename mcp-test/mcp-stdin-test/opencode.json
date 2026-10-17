@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "generate-random-numbers": {
+      "type": "local",
+      "command": ["node index.ts"],
+      "enabled": true
+    }
+  }
+}
